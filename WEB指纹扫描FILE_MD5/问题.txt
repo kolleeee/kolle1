@@ -1,0 +1,39 @@
+CMS识别之前先判断  网站是否能打开     以加快识别速度
+///////////////////////////////////////
+if i[3]:#文件MD5
+                                if data: #文件MD5
+                                    list_feil_md5=self.GetFileMd5(data)
+                                    if list_feil_md5[0]:
+                                        if i[3]==list_feil_md5[1]:
+                                            print "url:%s  cms:%s  hand_url:%s  MD5:%s"%(self.URL,i[1],i[0],i[3])
+                                            self.text_cms(self.URL,i[1]) #CMS 处理方式
+                                            break #跳出整个循环
+
+
+
+
+if i[3]==list_feil_md5[1]:
+
+
+在MD5比对的时候应该对i[3] 进行大小写转换  把大写转换成小写
+
+
+s = 'hEllo pYthon'
+
+python 字符串 大小写转换 - 波博 - A Pebble Caveprint s.upper()
+
+python 字符串 大小写转换 - 波博 - A Pebble Caveprint s.lower()
+
+python 字符串 大小写转换 - 波博 - A Pebble Caveprint s.capitalize()
+
+python 字符串 大小写转换 - 波博 - A Pebble Caveprint s.title()
+
+输出结果：
+
+HELLO PYTHON
+
+hello python
+
+Hello python
+
+Hello Python

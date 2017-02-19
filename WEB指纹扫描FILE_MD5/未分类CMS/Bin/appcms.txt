@@ -1,0 +1,1 @@
+/core/filter_word.txt|appcms

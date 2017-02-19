@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#zcncms
+/install/images/default/section_bottom.jpg|zcncms||11e8d3bd5c82760e5f52c10b52a0c205|
+/admin/images/logo.png|zcncms||9c1f35524f995af165620ca788d08944|
+/images/default/loading.gif|zcncms||e2150b3a260f530a1603ad52c12e6340|
+/data/adflash.txt|zcncms||ea5e6048f0b2a0927b46b12b48f18e29|

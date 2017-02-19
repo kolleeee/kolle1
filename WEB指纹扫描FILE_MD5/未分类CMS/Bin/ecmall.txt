@@ -1,0 +1,2 @@
+/temp/compiled/mall/|ecmall
+/eccore/ecmall.php|ecmall

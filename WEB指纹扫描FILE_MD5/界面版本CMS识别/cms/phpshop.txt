@@ -1,0 +1,7 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#phpshop
+/install/images/bg-input.png|phpshop||b70b0a713b98a0c3f5ec15bcb3eebb81|
+/admin/images/left_menu.png|phpshop||1eb47cb1b95dd9426cb2bcda84b6e844|
+/shopdata/images/error_tips.gif|phpshop||df4b75d41807fbe7e16fe131070a572a|

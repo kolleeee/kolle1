@@ -1,0 +1,5 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#phpweb
+/base/templates/images/2.png|phpweb||fa2b19f44a5084d560d707da20846575|

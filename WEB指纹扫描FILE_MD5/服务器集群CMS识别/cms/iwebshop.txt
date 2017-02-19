@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#iwebshop
+/lib/web/js/source/form/form.js|iwebshop||97514524130b953ec64dd2206f12ecbe|
+/favicon.ico|iwebshop||caebedbceae5ce12b44cfdac98c7948e|
+/install/images/guide_1.gif|iwebshop||bf7d1b1e0291bf1028daeb5acfcdbeb8|
+/image/watermark.gif|iwebshop||19df7e58278f049747c6c85b81968db4|

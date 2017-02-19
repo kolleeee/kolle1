@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#maxcms
+/template/default/images/index_97.jpg|maxcms||ff7a8706393b68ebed8015171a3c036e|
+/admin/imgs/login_04.jpg|maxcms||75e0e58c66faf4e25c2d346a1f6d7a2a|
+/admin/imgs/starno.gif|maxcms||c758dea036133e583d03145d721bcf75|
+/pic/logo.png|maxcms||90839fbd37292d2ab012496a8de1d48c|

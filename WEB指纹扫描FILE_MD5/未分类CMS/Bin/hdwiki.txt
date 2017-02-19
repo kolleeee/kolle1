@@ -1,0 +1,3 @@
+/style/aoyun/hdwiki.css|hdwiki
+/view/default/admin_addlink.htm|hdwiki
+/plugins/mwimport/view/admin_mwimport.htm|hdwiki

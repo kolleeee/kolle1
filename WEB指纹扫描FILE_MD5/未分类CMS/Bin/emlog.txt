@@ -1,0 +1,5 @@
+/admin/views/style/default/style.css|emlog
+/admin/views/style/green/style.css|emlog
+/content/templates/default/main.css|emlog
+/content/templates/default/tpl.ini|emlog
+/wlwmanifest.xml|emlog

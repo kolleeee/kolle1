@@ -1,0 +1,11 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#actcms
+/images/act_1.gif|actcms||b99464b11b2cc0a0403f308a775d9b7b|
+/images/logo.gif|actcms||02d47a2780fdadd0086215693f3a6b5f|
+/images/reg.gif|actcms||c81932053e6ac8df6077e5c7ad241ae8|
+/Admin/Images/bg_admin.jpg|actcms||6b1185f2df41f38247d20f1f5b53c0cc|
+/Admin/Images/logo.jpg|actcms||16088c9aeb5b77ef3a07db4e08834880|
+/ACT_inc/ItemBg.gif|actcms||9cfc31ea9b376230b76bfbbf70b814bf|
+/ACT_inc/share/minusbottom.gif|actcms||934a2b40df618be35f7488ac3245aca6|

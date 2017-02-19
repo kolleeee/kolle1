@@ -1,0 +1,14 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#Emlog
+/robots.txt|Emlog|emlog|
+/wlwmanifest.xml|Emlog|emlog|
+/content/cache/links|Emlog|emlog|
+/content/cache/options|Emlog|emlog|
+/content/cache/blogger|Emlog|emlog|
+/admin/views/default/main.css|Emlog|emlog|
+/admin/views/style/default/style.css|Emlog|emlog|
+/admin/views/style/green/style.css|Emlog|emlog|4d50eee0c43bc7d1ac708c5622d5b481|
+/content/templates/default/main.css|Emlog|emlog|
+/content/templates/default/tpl.ini|Emlog|emlog|

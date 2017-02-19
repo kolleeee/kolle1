@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#74cms
+/install/templates/images/link_bg.gif|74cms||0a2972286de60087205b5bb3217fbdc5|
+/admin/images/admin_submit.jpg|74cms||47f025f42749b4c802cbd00cc3b57c74|
+/include/payment/logo/remittance.gif|74cms||02dc0df8b6a9a5dc41e0461c58fad372|
+/data/setmealimg/3.gif|74cms||1fbbfc27216faf3cb03735fd0e2dba75|

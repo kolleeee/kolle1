@@ -1,0 +1,1 @@
+python D:\Python27\pyinstaller-2.0\pyinstaller.py --onefile main.py --icon=App.ico -w -p C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\成品代码\指纹识别,D:\Python27

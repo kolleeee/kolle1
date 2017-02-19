@@ -1,0 +1,1 @@
+document.write('<div class="ie6_png" style="width: 560px; height: 88px; position: absolute; left: 0px; top: 0px;">');document.write('<a href="http://bbs.t56.net/misc.php?mod=mobile" target="_blank">');document.write('<img src="http://bbs.t56.net/static/mydiy/logo_bgsj.png">');document.write('</a>');document.write('</div>');

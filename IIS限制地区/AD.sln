@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AD", "AD.vcxproj", "{B60D7584-D1C4-4E0C-B522-1AF22FE97F04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication1", "..\MFCApplication1\MFCApplication1.vcxproj", "{E5F986DA-DB2A-4F5E-B58A-FB174677BB1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60D7584-D1C4-4E0C-B522-1AF22FE97F04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B60D7584-D1C4-4E0C-B522-1AF22FE97F04}.Debug|Win32.Build.0 = Debug|Win32
+		{B60D7584-D1C4-4E0C-B522-1AF22FE97F04}.Release|Win32.ActiveCfg = Release|Win32
+		{B60D7584-D1C4-4E0C-B522-1AF22FE97F04}.Release|Win32.Build.0 = Release|Win32
+		{E5F986DA-DB2A-4F5E-B58A-FB174677BB1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5F986DA-DB2A-4F5E-B58A-FB174677BB1F}.Debug|Win32.Build.0 = Debug|Win32
+		{E5F986DA-DB2A-4F5E-B58A-FB174677BB1F}.Release|Win32.ActiveCfg = Release|Win32
+		{E5F986DA-DB2A-4F5E-B58A-FB174677BB1F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

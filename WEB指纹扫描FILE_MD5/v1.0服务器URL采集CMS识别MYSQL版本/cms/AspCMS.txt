@@ -1,0 +1,16 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#AspCMS
+/images/qq/qqkf2/Kf_bg03_03.gif|AspCMS||86e0554ab2d9f46bab7852d71f2eecd3|
+/js/close.gif|AspCMS||106f4f32d0f4fea144b2848b4ee2fb79|
+/images/qq/qqkf2/Kf_bg03_03.gif|AspCMS||86e0554ab2d9f46bab7852d71f2eecd3|
+/apply/_notes/dwsync.xml|AspCMS|aspcms|39b41a4ec92c9e26e341ebd614a21726|
+/install/|AspCMS|aspcms|
+/about/_notes/dwsync.xml|AspCMS|aspcms|
+/admin/_Style/_notes/dwsync.xml|AspCMS|aspcms|
+/config/_notes/dwsync.xml|AspCMS|aspcms|
+/fckeditor/fckconfig.js|AspCMS|aspcms|
+/gbook/_notes/dwsync.xml|AspCMS|aspcms|
+/inc/_notes/dwsync.xml|AspCMS|aspcms|
+/plug/comment.html|AspCMS|aspcms|

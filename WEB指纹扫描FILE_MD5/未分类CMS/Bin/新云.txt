@@ -1,0 +1,4 @@
+/admin/script/selcolor.htm|新云asp内容管理系统
+/ask/images/userface/fl468x60.png|新云asp内容管理系统
+/src/phpcom_version.php|新云php内容管理系统
+/misc/js/_clipboard.swf|新云php内容管理系统

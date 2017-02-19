@@ -1,0 +1,2 @@
+/webmail/userapply.php?execadd=333&DomainID=111|Umail
+/webmail/fileshare.php|Umail

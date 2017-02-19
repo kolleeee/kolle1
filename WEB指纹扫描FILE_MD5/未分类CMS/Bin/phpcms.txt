@@ -1,0 +1,3 @@
+/phpcms/templates/default/member/connect.html|phpcms
+/bill/install/mysql.sql|phpcms
+/comment/include/js/comment.js|phpcms

@@ -1,0 +1,2 @@
+/db/wqcms.txt|wqcms
+/pic/wqcms.swf|wqcms

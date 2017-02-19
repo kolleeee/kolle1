@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#luzhucms
+/images/lzbg12.gif|luzhucms||9b5d64e7f3aa2be74602fa35df4139fb|
+/images/bg1.gif|luzhucms||94bff0a127e4555ca4ec52be7ef45e25|

@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#gocdkey
+/admin/images/top.gif|gocdkey||2e20742b2c7474e08bd5e1cafbe4126d|
+/images/adminlogoin.gif|gocdkey||e2609891bfc152cbd4e40eca4238d832|

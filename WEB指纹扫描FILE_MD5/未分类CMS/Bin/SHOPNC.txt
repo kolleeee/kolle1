@@ -1,0 +1,1 @@
+/data/upload/shop/common/logo.png|shopnc

@@ -1,0 +1,3 @@
+/Admin/News/images/vssver2.scc|foosuncms
+/Users/Mall/OrderPrint.Asp|foosuncms
+/xml/products/dotnetcmsversion.xml|foosuncms

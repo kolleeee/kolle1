@@ -1,0 +1,4 @@
+/page/system/inc/fun.js|KingCMS
+/block/core.class.php|KingCMS
+/webftp.asp|KingCMS
+/EasyArticle/index.asp|KingCMS

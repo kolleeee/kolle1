@@ -1,0 +1,7 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#08cms
+/images/admina/sitmap0.png|08cms||e0c4b6301b769d596d183fa9688b002a|
+/images/admina/logo.png|08cms||db113c0f641da45947a371c4b7e1d280|
+/images/admina/arrow.jpg|08cms||4d31afa41252d32d8a9aefe04796eb4e|

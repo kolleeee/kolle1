@@ -1,0 +1,7 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#YiDacms
+/images/yi.png|Yidacms||b5579af7bdd4d85bbf3e6aa8affed658|
+/images/qq/1.gif|YiDacms||172e8b2cc69611ab3f4ec9c81f80b56a|
+/inc/qq.js|YiDacms|yidacms||479786c6ea28d97a1cb2d59ef9b6980d|

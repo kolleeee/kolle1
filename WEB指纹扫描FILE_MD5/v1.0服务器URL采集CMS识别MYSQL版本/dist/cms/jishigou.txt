@@ -1,0 +1,7 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#jishigou
+/favicon.ico|jishigou||fe5b5f6f65603a3180218b6b32097683|
+/mobile/images/redirect_icon.png|jishigou||5dcbdb49514b457226d7b5e789b258f9|
+/wap/templates/default/images/nv_r2_c1.gif|jishigou||999cf400c5e28ee7b79094ba3c324e09|

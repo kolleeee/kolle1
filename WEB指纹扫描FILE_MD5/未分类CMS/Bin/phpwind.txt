@@ -1,0 +1,4 @@
+/admin/safefiles.md5|phpWind
+/api/agent.html|phpWind
+/lang/wind/admin/admin.htm|phpWind
+/m/template/footer.htm|phpWind

@@ -1,0 +1,7 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#siteengine
+/images/usercp_usergroups.gif|siteengine||fe6938b0d059893a3bd6093fa9cca003|
+/data/smiliey/default/shy.gif|siteengine||214f8164393880a9e304d457b4592745|
+/data/css/arrow-down-title.jpg|siteengine||4846c7462c27b0bcf5f5d8b6d671575b|

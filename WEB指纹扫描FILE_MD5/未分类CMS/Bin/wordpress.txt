@@ -1,0 +1,3 @@
+/wp-admin/js/media-upload.dev.js|wordpress
+/wp-content/plugins/akismet/akismet.js|wordpress
+/wp-includes/js/scriptaculous/wp-scriptaculous.js|wordpress

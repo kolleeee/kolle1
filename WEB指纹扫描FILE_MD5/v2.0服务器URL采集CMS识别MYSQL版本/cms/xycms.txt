@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#xycms
+/images/logo.png|xycms||1e1fabb72b53c8dfb4946f027d215484|
+/admin/images/admin_logo.png|xycms||237be78cfb03c14d70303342c0877959|
+/admin/images/top_tt_bg.gif|xycms||94759db89764eb4a1ae41a926f7fe59a|
+/editor/themes/qq/editor.gif|xycms||f79ea716aca57c5b4cb83cf31a11ea2e|

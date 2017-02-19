@@ -1,0 +1,7 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#gxcms
+/views/images/water.gif|gxcms||d67687d84cb08748d2bfa7056f4ae84c|
+/views/images/admin/login_toptitle.jpg|gxcms||35d8b1c721044ec9571b35cbcdae5b17|
+/views/images/install/set01_top_nav.gif|gxcms||377eb13f019a41c417ee29f062041e2e|

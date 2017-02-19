@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#expocms
+/Admin/Images/Exit-Line.gif|expocms||42bbff11d716d50807c16c1bba95203b|
+/images/logo_bg.jpg|expocms||c61cd01d1e968dcc16cd8a875a693830|

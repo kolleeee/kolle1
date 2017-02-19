@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#skypost
+/admin/Image/title.gif|skypost||2fbb8e5bcdefd563c50f43a0716ef134|
+/admin/images/menu_title3a.jpg|skypost||3cbccc49e76cef5073213010911d3329|

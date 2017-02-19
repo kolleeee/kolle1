@@ -1,0 +1,4 @@
+/admin/ecshopfiles.md5|ecshop
+/admin/help/zh_cn/database.xml|ecshop
+/install/data/data_en_us.sql|ecshop
+/data/flashdata/default/cycle_image.xml|ecshop

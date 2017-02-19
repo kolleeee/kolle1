@@ -1,0 +1,7 @@
+/plug/comment.html|aspcms
+/about/_notes/dwsync.xml|aspcms
+/admin/_Style/_notes/dwsync.xml|aspcms
+/apply/_notes/dwsync.xml|aspcms
+/config/_notes/dwsync.xml|aspcms
+/gbook/_notes/dwsync.xml|aspcms
+/inc/_notes/dwsync.xml|aspcms

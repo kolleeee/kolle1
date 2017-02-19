@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#sdcms
+/install/images/logo.gif|sdcms||17f8a25eb1757baf3d4b6522a635057c|
+/install/images/steptab.png|sdcms||f54a10caf557f7ba043fc4c402c3db6a|
+/lib/images/tip_layer.png|sdcms||c8cb16e8b61bc549ebd339858e66fa5c|
+/theme/admin/images/upload.gif|sdcms||d5cd0c796cd7725beacb36ebd0596190|

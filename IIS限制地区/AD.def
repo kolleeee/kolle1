@@ -1,0 +1,7 @@
+; AD.def : declares the module parameters for the DLL.
+
+LIBRARY	     "AD"
+
+EXPORTS
+	HttpFilterProc
+	GetFilterVersion

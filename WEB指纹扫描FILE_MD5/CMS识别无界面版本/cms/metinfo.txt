@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#metinfo
+/job/templates/met/css/style.css|metinfo||3d906218998f71e198808b7895c4dc96|
+/favicon.ico|metinfo||8dc1e04ffcf4d86aaaedb49eeac653c1|
+/admin/templates/met/images/logosmall.gif|metinfo||2820a3b690612fa7df88fc661178a8de|
+/wap/templates/met/images/listico.gif|metinfo||21530b0202a60b21f9207155d1d11411|

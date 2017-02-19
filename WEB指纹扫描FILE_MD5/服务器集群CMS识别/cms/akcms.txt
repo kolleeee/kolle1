@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#akcms
+/images/admin/logo.gif|akcms||b2d6d8861f20a1791611d1f21d2ba4bf|
+/images/admin/sprites.png|akcms||80d5e4b529aeb4d4516045918e3f7e47|

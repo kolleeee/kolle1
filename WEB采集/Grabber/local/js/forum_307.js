@@ -1,0 +1,13 @@
+document.write('<style>');
+document.write('.forum_307_tab td{text-align:center;background-color:#ffffff;width:25%;font-size:14px;padding:3px;}');
+document.write('.forum_307_tab a{font-weight:bold;color:blue;}');
+document.write('.forum_307_tab a.red{color:red;}');
+document.write('.forum_307_tab a.green{color:green;}');
+document.write('.forum_307_tab a.black{color:black;}');
+document.write('</style>');
+document.write('<div style="width:780px;text-align:center;margin:0 auto;">');
+document.write('<table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#C0D3DE" class="forum_307_tab">');
+//document.write('<tr>');
+//document.write('<td colspan=4><a href="http://bbs.t56.net/ad/page2011/runze/" target="_blank"><img src="/ad/2011/runze.gif" /></a></td>');
+//document.write('</tr>');
+document.write('</table></div>');

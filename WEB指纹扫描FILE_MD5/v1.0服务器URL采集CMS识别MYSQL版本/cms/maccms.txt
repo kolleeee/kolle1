@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#maccms
+/admin/editor/xheditor_skin/default/img/tag-h4.gif|maccms||f9b0ab294e6b7d51e7f19fe362038b92|
+/images/adm/left_menus1.gif|maccms||a8c24f9ce8fb507e1fc04848b3de39dc|

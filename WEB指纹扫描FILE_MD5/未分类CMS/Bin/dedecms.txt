@@ -1,0 +1,4 @@
+/data/admin/allowurl.txt|dedeCMS
+/data/admin/ver.txt|dedeCMS
+/templets/default/style/dedecms.css|dedeCMS
+/dede/css_body.css|dedeCMS

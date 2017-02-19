@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#86cms
+/admin/images/login_06.jpg|86cms||d7e74c7a56081ebe8415c6ffc1d7a11a|
+/adfile/ad9.js|86cms|86cms|996507b745203776e2915e8878344146|

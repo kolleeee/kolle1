@@ -1,0 +1,88 @@
+C:\WINDOWS\system32\inetsrv\MetaBase.xml 
+所有未知 ISAPI 扩展    允许
+WebSvcExtRestrictionList="0,*.exe
+			1,*.dll
+
+所有未知 ISAPI 扩展    禁止
+WebSvcExtRestrictionList="0,*.dll
+			0,*.exe
+
+
+
+
+
+
+
+	WAMUserName="IWAM_AK47-BHI0TI017K"
+		WAMUserPass="49634462700000002200000040000000e533b98cc68d6ec3f7cec5e6dbcacc3163ec04247afa3753b9b23242e4a48228faeb0000010001008eee4f09eebe40602db6a2bba9b82e6fd175fcfdddebb2e6682ec073cd413ca2c3d158aca1072e0f99b61e2c37b6c6181bc07fdf3389e4295ae84b9323574821"
+		WebSvcExtRestrictionList="0,*.exe
+			1,*.dll
+			0,C:\WINDOWS\system32\inetsrv\ssinc.dll,0,SSINC,在服务器端的包含文件
+			1,C:\WINDOWS\system32\inetsrv\asp.dll,0,ASP,Active Server Pages
+			1,C:\WINDOWS\system32\inetsrv\httpodbc.dll,0,HTTPODBC,Internet 数据连接器
+			0,C:\WINDOWS\system32\inetsrv\httpext.dll,0,WEBDAV,WebDAV"
+
+
+
+
+
+
+
+
+
+
+C:\AD.dll  就是我新家在的ISAPI
+
+</IIsApplicationPool>
+<IIsFilters	Location ="/LM/W3SVC/Filters"
+		AdminACL="49634462f0000000a4000000400000001c7f31ac2bba5f2d09b326652cd372bde2a8f5b3f0cc6dd7bb8d92294c445a736dde679a051dd24029c0a8e0558bb67ee1013b7ea8a68badf5cc3d04634ca94cc8d5debf4f4af7f1321c4db06196f020bb5638132656a16df5036737c2ab864197301d9d38bb0e02a8c6072841f62c181cfca933564d22144ebcefa77a7f7e63d80e759b709c4a06931c836410ae2de07d94484903ef4ddc202bc879cb2b4f473d9a47548c87e15567bba31c6bc7aadb0e8097a5e2274706edcd01937bd125a3aea8baf79957f6fe3be7af46b46864ab83a7640b92fda4dc13287b28b8200f174a9d087a28484682"
+		FilterLoadOrder="11111"
+	>
+
+</IIsFilter>
+<IIsFilter	Location ="/LM/W3SVC/Filters/11111"
+		FilterPath="C:\AD.dll"
+	>
+
+
+
+
+还有就是文件要写入    权限   IIS权限  给写入权限
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

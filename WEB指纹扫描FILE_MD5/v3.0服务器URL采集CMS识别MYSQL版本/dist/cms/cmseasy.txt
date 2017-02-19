@@ -1,0 +1,10 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#cmseasy
+/favicon.ico|cmseasy||842ef968b721403178fbe08f1f2e5dfc|
+/images/logo_wap.png|cmseasy||b9281e6bd84987b3bcb5684d89c313cc|
+/images/admin/readme.gif|cmseasy||3ca64935f89925da7e026d65a85852f7|
+/js/upimg/subbotton.gif|cmseasy||16c38dd8f84747a9d725aa575e5bfc27|
+/favicon.ico|cmseasy||79c27bb5831dd9993bf325b9010e7c62|
+/favicon.ico|cmseasy||842ef968b721403178fbe08f1f2e5dfc|

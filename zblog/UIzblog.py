@@ -1,0 +1,155 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file 'zblog.ui'
+#
+# Created: Fri Dec 20 21:35:28 2013
+#      by: PyQt4 UI code generator 4.10.1
+#
+# WARNING! All changes made in this file will be lost!
+
+from PyQt4 import QtCore, QtGui
+
+try:
+    _fromUtf8 = QtCore.QString.fromUtf8
+except AttributeError:
+    def _fromUtf8(s):
+        return s
+
+try:
+    _encoding = QtGui.QApplication.UnicodeUTF8
+    def _translate(context, text, disambig):
+        return QtGui.QApplication.translate(context, text, disambig, _encoding)
+except AttributeError:
+    def _translate(context, text, disambig):
+        return QtGui.QApplication.translate(context, text, disambig)
+
+class Ui_dialog(object):
+    def setupUi(self, dialog):
+        dialog.setObjectName(_fromUtf8("dialog"))
+        dialog.resize(697, 548)
+        self.tableView = QtGui.QTableView(dialog)
+        self.tableView.setGeometry(QtCore.QRect(10, 10, 681, 331))
+        self.tableView.setObjectName(_fromUtf8("tableView"))
+        self.groupBox = QtGui.QGroupBox(dialog)
+        self.groupBox.setGeometry(QtCore.QRect(10, 350, 391, 191))
+        self.groupBox.setObjectName(_fromUtf8("groupBox"))
+        self.label_3 = QtGui.QLabel(self.groupBox)
+        self.label_3.setGeometry(QtCore.QRect(10, 110, 31, 16))
+        self.label_3.setObjectName(_fromUtf8("label_3"))
+        self.label_2 = QtGui.QLabel(self.groupBox)
+        self.label_2.setGeometry(QtCore.QRect(10, 70, 31, 16))
+        self.label_2.setObjectName(_fromUtf8("label_2"))
+        self.label = QtGui.QLabel(self.groupBox)
+        self.label.setGeometry(QtCore.QRect(10, 30, 31, 16))
+        self.label.setObjectName(_fromUtf8("label"))
+        self.pushButton = QtGui.QPushButton(self.groupBox)
+        self.pushButton.setGeometry(QtCore.QRect(330, 20, 51, 31))
+        self.pushButton.setObjectName(_fromUtf8("pushButton"))
+        self.pushButton_2 = QtGui.QPushButton(self.groupBox)
+        self.pushButton_2.setGeometry(QtCore.QRect(330, 60, 51, 31))
+        self.pushButton_2.setObjectName(_fromUtf8("pushButton_2"))
+        self.textEdit = QtGui.QTextEdit(self.groupBox)
+        self.textEdit.setGeometry(QtCore.QRect(40, 20, 281, 31))
+        self.textEdit.setObjectName(_fromUtf8("textEdit"))
+        self.textEdit_2 = QtGui.QTextEdit(self.groupBox)
+        self.textEdit_2.setGeometry(QtCore.QRect(40, 60, 281, 31))
+        self.textEdit_2.setObjectName(_fromUtf8("textEdit_2"))
+        self.textEdit_3 = QtGui.QTextEdit(self.groupBox)
+        self.textEdit_3.setGeometry(QtCore.QRect(40, 100, 101, 31))
+        self.textEdit_3.setObjectName(_fromUtf8("textEdit_3"))
+        self.pushButton_3 = QtGui.QPushButton(self.groupBox)
+        self.pushButton_3.setGeometry(QtCore.QRect(150, 90, 41, 41))
+        self.pushButton_3.setObjectName(_fromUtf8("pushButton_3"))
+        self.pushButton_4 = QtGui.QPushButton(self.groupBox)
+        self.pushButton_4.setGeometry(QtCore.QRect(140, 140, 241, 41))
+        self.pushButton_4.setObjectName(_fromUtf8("pushButton_4"))
+        self.label_4 = QtGui.QLabel(self.groupBox)
+        self.label_4.setGeometry(QtCore.QRect(10, 140, 71, 41))
+        self.label_4.setObjectName(_fromUtf8("label_4"))
+        self.textEdit_4 = QtGui.QTextEdit(self.groupBox)
+        self.textEdit_4.setGeometry(QtCore.QRect(80, 150, 51, 31))
+        self.textEdit_4.setObjectName(_fromUtf8("textEdit_4"))
+        self.label_7 = QtGui.QLabel(self.groupBox)
+        self.label_7.setGeometry(QtCore.QRect(190, 100, 31, 21))
+        self.label_7.setObjectName(_fromUtf8("label_7"))
+        self.textEdit_9 = QtGui.QTextEdit(self.groupBox)
+        self.textEdit_9.setGeometry(QtCore.QRect(220, 100, 104, 31))
+        self.textEdit_9.setObjectName(_fromUtf8("textEdit_9"))
+        self.pushButton_9 = QtGui.QPushButton(self.groupBox)
+        self.pushButton_9.setGeometry(QtCore.QRect(330, 100, 51, 31))
+        self.pushButton_9.setObjectName(_fromUtf8("pushButton_9"))
+        self.groupBox_2 = QtGui.QGroupBox(dialog)
+        self.groupBox_2.setGeometry(QtCore.QRect(410, 350, 281, 191))
+        self.groupBox_2.setObjectName(_fromUtf8("groupBox_2"))
+        self.label_5 = QtGui.QLabel(self.groupBox_2)
+        self.label_5.setGeometry(QtCore.QRect(10, 30, 41, 16))
+        self.label_5.setObjectName(_fromUtf8("label_5"))
+        self.label_6 = QtGui.QLabel(self.groupBox_2)
+        self.label_6.setGeometry(QtCore.QRect(10, 70, 31, 16))
+        self.label_6.setObjectName(_fromUtf8("label_6"))
+        self.textEdit_5 = QtGui.QTextEdit(self.groupBox_2)
+        self.textEdit_5.setGeometry(QtCore.QRect(50, 20, 171, 31))
+        self.textEdit_5.setObjectName(_fromUtf8("textEdit_5"))
+        self.textEdit_6 = QtGui.QTextEdit(self.groupBox_2)
+        self.textEdit_6.setGeometry(QtCore.QRect(50, 60, 171, 31))
+        self.textEdit_6.setObjectName(_fromUtf8("textEdit_6"))
+        self.pushButton_5 = QtGui.QPushButton(self.groupBox_2)
+        self.pushButton_5.setGeometry(QtCore.QRect(230, 20, 41, 31))
+        self.pushButton_5.setObjectName(_fromUtf8("pushButton_5"))
+        self.pushButton_6 = QtGui.QPushButton(self.groupBox_2)
+        self.pushButton_6.setGeometry(QtCore.QRect(230, 60, 41, 31))
+        self.pushButton_6.setObjectName(_fromUtf8("pushButton_6"))
+        self.groupBox_3 = QtGui.QGroupBox(self.groupBox_2)
+        self.groupBox_3.setGeometry(QtCore.QRect(0, 99, 131, 91))
+        self.groupBox_3.setObjectName(_fromUtf8("groupBox_3"))
+        self.pushButton_7 = QtGui.QPushButton(self.groupBox_3)
+        self.pushButton_7.setGeometry(QtCore.QRect(10, 60, 121, 31))
+        self.pushButton_7.setObjectName(_fromUtf8("pushButton_7"))
+        self.label_8 = QtGui.QLabel(self.groupBox_3)
+        self.label_8.setGeometry(QtCore.QRect(10, 20, 51, 41))
+        self.label_8.setObjectName(_fromUtf8("label_8"))
+        self.textEdit_7 = QtGui.QTextEdit(self.groupBox_3)
+        self.textEdit_7.setGeometry(QtCore.QRect(70, 20, 51, 31))
+        self.textEdit_7.setObjectName(_fromUtf8("textEdit_7"))
+        self.groupBox_4 = QtGui.QGroupBox(self.groupBox_2)
+        self.groupBox_4.setGeometry(QtCore.QRect(140, 100, 141, 91))
+        self.groupBox_4.setObjectName(_fromUtf8("groupBox_4"))
+        self.pushButton_8 = QtGui.QPushButton(self.groupBox_4)
+        self.pushButton_8.setGeometry(QtCore.QRect(10, 60, 121, 31))
+        self.pushButton_8.setObjectName(_fromUtf8("pushButton_8"))
+        self.label_9 = QtGui.QLabel(self.groupBox_4)
+        self.label_9.setGeometry(QtCore.QRect(10, 20, 51, 41))
+        self.label_9.setObjectName(_fromUtf8("label_9"))
+        self.textEdit_8 = QtGui.QTextEdit(self.groupBox_4)
+        self.textEdit_8.setGeometry(QtCore.QRect(70, 20, 61, 31))
+        self.textEdit_8.setObjectName(_fromUtf8("textEdit_8"))
+
+        self.retranslateUi(dialog)
+        QtCore.QMetaObject.connectSlotsByName(dialog)
+
+    def retranslateUi(self, dialog):
+        dialog.setWindowTitle(_translate("dialog", "zblog  php  SQLite版本文章-评论-留言本|自动更新器 神龙QQ:29295842 神马站群 QQ群:40518379", None))
+        self.groupBox.setTitle(_translate("dialog", "文章更新/一行一条数据/随机抽取", None))
+        self.label_3.setText(_translate("dialog", "正文:", None))
+        self.label_2.setText(_translate("dialog", "别名:", None))
+        self.label.setText(_translate("dialog", "标题:", None))
+        self.pushButton.setText(_translate("dialog", "浏览", None))
+        self.pushButton_2.setText(_translate("dialog", "浏览", None))
+        self.pushButton_3.setText(_translate("dialog", "浏\n"
+"览", None))
+        self.pushButton_4.setText(_translate("dialog", "开始发布", None))
+        self.label_4.setText(_translate("dialog", "<html><head/><body><p><span style=\" font-weight:600;\">每个BLOG发</span></p><p><span style=\" font-weight:600;\">布几篇文章:</span></p></body></html>", None))
+        self.label_7.setText(_translate("dialog", "<html><head/><body><p>链接:</p></body></html>", None))
+        self.pushButton_9.setText(_translate("dialog", "浏览", None))
+        self.groupBox_2.setTitle(_translate("dialog", "更新文章评论/留言内容/一行一条随机抽取", None))
+        self.label_5.setText(_translate("dialog", "<html><head/><body><p>用户名:</p></body></html>", None))
+        self.label_6.setText(_translate("dialog", "<html><head/><body><p>内容:</p></body></html>", None))
+        self.pushButton_5.setText(_translate("dialog", "浏览", None))
+        self.pushButton_6.setText(_translate("dialog", "浏览", None))
+        self.groupBox_3.setTitle(_translate("dialog", "文章评论", None))
+        self.pushButton_7.setText(_translate("dialog", "开始发布评论", None))
+        self.label_8.setText(_translate("dialog", "<html><head/><body><p><span style=\" font-weight:600;\">每个网站</span></p><p><span style=\" font-weight:600;\">评论数:</span></p></body></html>", None))
+        self.groupBox_4.setTitle(_translate("dialog", "留言内容", None))
+        self.pushButton_8.setText(_translate("dialog", "开始发布留言", None))
+        self.label_9.setText(_translate("dialog", "<html><head/><body><p><span style=\" font-weight:600;\">每个网站</span></p><p><span style=\" font-weight:600;\">留言数:</span></p></body></html>", None))
+

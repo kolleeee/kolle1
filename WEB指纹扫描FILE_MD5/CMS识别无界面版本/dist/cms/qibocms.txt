@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#qibocms
+/favicon.ico|qibocms||f2474a2821a5b0700370f21de5768410|
+/admin/images/login/index_hz02.gif|qibocms||1c9fe02f68463e7d425cd26119be9951|
+/admin/images/login/index_hz03.gif|qibocms||f1b260cd0f59cd12845d70217377b77f|
+/favicon.ico|qibocms||f2474a2821a5b0700370f21de5768410|

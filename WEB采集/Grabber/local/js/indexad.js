@@ -1,0 +1,5 @@
+//ad1
+
+//document.write('[<a href="#" class="blue">施尔美</a>]<a href="http://www.yzsem.com/zhengxing/list_10_1.html" target="_blank"><font color=red>隆胸、</font></a><a href="http://www.yzsem.com/zhengxing/list_7_1.html" target="_blank"><font color=red style="margin:0 5px 0 0;">双眼皮、</font></a><a href="http://www.yzsem.com/zhengxing/list_11_1.html" target="_blank"><font color=red>吸脂瘦身</font></a> <a href="http://www.yzsem.com/index.html" target="_blank"><font color=red>腋毛包脱冰点价2999元起!</font></a>');
+//document.write('[<a href="#" class="blue">施尔美</a>]<a href="http://www.yzsem.com" target="_blank"><font color=red>扬州施尔美国庆整形美容最低8折！</font></a>');
+document.write('[<a href="http://tuomao.yzsem.com/" target="_blank" class="red" rel="nofollow">冰点脱毛&nbsp;&nbsp;</a><a href="http://www.yzsem.com/zhuanti/fx/"class="red" rel="nofollow">无痕丰胸&nbsp;&nbsp;</a><a href="http://xizhi.yzsem.com/"class="red" rel="nofollow">360度吸脂&nbsp;&nbsp;</a><a href="http://www.yzsem.com/zhuanti/zhushe/ " target="_blank" class="red" rel="nofollow">微整形&nbsp;&nbsp;</a><a href="http://www.yzsem.com/" target="_blank" class="red" rel="nofollow">施尔美特价优惠中</a>]');

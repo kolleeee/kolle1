@@ -1,0 +1,5 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#qianbocms
+/images/zoom.gif|qianbocms||fc7e858f7f34dae11eaabdcf465184de|

@@ -1,0 +1,4 @@
+/INSTALL.mysql.txt|Drupal
+/themes/tests/README.txt|Drupal
+/sites/all/README.txt|Drupal
+/modules/legacy/legacy.info|Drupal

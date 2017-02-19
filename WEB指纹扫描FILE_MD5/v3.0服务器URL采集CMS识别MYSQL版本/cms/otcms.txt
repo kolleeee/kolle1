@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#otcms
+/favicon.ico|otcms||e86ea7f20a0aecaec8920f3e98db92f7|
+/admin/images/login/login_submit.gif|otcms||326e3c92c2a6de7f3f1722e9eedf4ad4|
+/inc/yucmedia/Media/img/direct/reload2.gif|otcms||613a059308e546b783258e4c17f25a1f|
+/inc_img/vote/vote2_1.gif|otcms||d3ccac322eddc5d083bbd5983345e007|

@@ -1,0 +1,11 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#ideacms
+/inc/image/bj.gif|ideacms||9e16b585ce621de35d6f09fb83c945f9|
+/inc/photo/loader.gif|ideacms||9d05f5d2410061c1c9881b98d5d7552f|
+/install/style.css|ideacms||40484a45f45f420dfdcd45654bba391e|
+/template/skin4/images/style.css|ideacms||5554bf92c8ec619222d0562d639fae6c|
+/admin/images/step4.jpg|ideacms||5126977766e7509190e44a7386845e6b|
+/inc/image/m_tleft.png|ideacms||369d7212fb62338d3dd23bb8d8c35de3|
+/template/skin4/images/logo.png|ideacms||74e03e9c5484862890fc61a144ca0bf4|

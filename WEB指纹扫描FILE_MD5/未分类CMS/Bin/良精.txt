@@ -1,0 +1,7 @@
+/en/Module/AboutDetail.ascx|良精cms
+/Html_skin30/downclass_29_1.html|良精cms
+/Ch/Memberphoto.Asp|良精cms
+/Html_skin30/enabout.html|良精cms
+/admin/admin_login.asp|良精cms
+/upload_photo.asp|良精cms
+/upload_Other.asp|良精cms

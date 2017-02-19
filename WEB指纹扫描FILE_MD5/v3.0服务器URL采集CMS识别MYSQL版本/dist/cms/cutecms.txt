@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#cutecms
+/jscal/src/css/img/cool-bg-hard-inv.png|cutecms||97c917494ef05fe63d0224f614eb2304|
+/jscal/src/css/img/cool-bg.png|cutecms||5f18225a1cae9c9ef67aa34fa2da099d|
+/admin/images/image_new.gif|cutecms||cedf52433a7f0f5bbb4821a4afc2e8e8|
+/admin/images/bg-pay-return-success.gif|cutecms||f154320904ea0a48976246d0c2144138|

@@ -1,0 +1,7 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#ayacms
+/favicon.ico|ayacms||bbfd06120bf4169070a5e7c2c255ea03|
+/static/sex0.jpg|ayacms||af7dce4fabc43e6059862362e0dd8a80|
+/static/ayacms.gif|ayacms||a8dcc596e48119b4ebca732f5ff4a561|

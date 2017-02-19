@@ -1,0 +1,5 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#joomle
+/htaccess.txt|joomle|joomla|d83c45a3aca4c5e7c8d55def31b6b85d|

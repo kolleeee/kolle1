@@ -1,0 +1,43 @@
+云南-neo(121085651)17:36:50
+中文站用gb2312的比较多，如果找到gb2312就识为这中文站，如果中utf8编码的，就搜索有没有常见的中文字，如（的，地，得，百，文）
+
+
+
+
+
+python爱好者(1465376564)  17:30:32
+@神龙  提供你一个思路  中文字符集 有范围  你做一个判断 
+@神龙  提供你一个思路  中文字符集 有范围  你做一个判断   怎么实现 搜google
+  
+python爱好者(1465376564)  17:31:41
+i = 0
+list=[]
+while  True
+    line = file1.realine()
+    i+=1
+    if  2< i <7:
+       list.append(line)
+    if not line:
+        break   
+
+上面是思路  
+
+神龙(29295842)  17:32:23
+那我获取整个网页   判断是否存在中文不就可以了吗
+i_i(315313343)  17:32:40
+# -*- coding=gb2312 -*-
+
+FILE = r'c:\Users\Administrator\Desktop\PXSNPLYWMLMUNAYLEBEN.txt'
+i=0
+s=''
+
+for line in open(FILE):
+    i+=1
+    if 2<i<7:
+        s+=line
+print(s)
+神龙(29295842)  17:32:52
+如果有中文出现 说明是中文站
+python爱好者(1465376564)  17:32:56
+可能吧 取head 或title
+@i_i  写得不错

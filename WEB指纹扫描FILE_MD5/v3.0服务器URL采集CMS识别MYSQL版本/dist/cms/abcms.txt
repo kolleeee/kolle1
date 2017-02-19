@@ -1,0 +1,6 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#abcms
+/install/images/00.png|abcms||c5ee1709a853229d2c91d736eda10051|
+/images-global/zoom/zoom-caption-fill.png|abcms||4b6f9654b24b1ef9670b361642f444b2|

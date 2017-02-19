@@ -1,0 +1,5 @@
+/IAA/ADTemplate/Template_Couplet.js|动易
+/images/AdvFocus.swf||动易
+/Temp/ajaxnote.txt|动易
+/User/PopCalendar.js|动易
+/Install/NeedCheckDllList.config|动易

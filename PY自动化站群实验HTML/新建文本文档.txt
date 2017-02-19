@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="x-ua-compatible" content="ie=7" />
+<meta name="Keywords" content="{$GetMetaKeyWord}" />
+<meta name="Description" content="{$GetMetaDescript}" />
+<title>{$GetSiteTitle}</title>
+<link href="css/index.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body style="background:#000;">
+<div class="wrap">
+{LB_head}
+<!--中间-->
+<div id="main">
+<!--快速导航-->
+<div id="daohang" class="mar_t10"><p>新品快递</p>{kmd_(17,10,20,9,1)}</div>
+<!--右侧-->
+<div id="right" class="r mar_t10">
+   <div class="r in_com">
+    <div class="pro_name mar_b10"><p><a href="{$GetUrl}COM_JIANJIE.html">更多</a></p>公司简介</div>
+    	<div class="in_com_con"> 三利达弓弩网成立于1988年，是弩弓行业的领先者，有着先进的弩弓生产技术，专业制造弩弓、赵氏弩弓的企业，三利达弩弓专卖网专业研究，开发，制造三利达大黑鹰产品，也是目前唯一由公安部门批准生产、销售弓、弩、箭、弩枪、弓弩、弩弓及相关弩类产品的企业。 </div>
+    </div>
+
+    <div class="in_new">
+       <div class="pro_name mar_b10"><p><a href="{$GetUrl}C_NEW/22_1.html">更多</a></p>新闻中心</div>
+    	<ul>
+        	{kmd_(22,5,20,6,1)}
+        </ul>
+    </div>
+<div class="clear"></div>
+    <div id="pro" class="mar_t10">
+      <div class="pro_name mar_b10"><p><a href="{$GetUrl}SLD/18_1.html">更多</a></p>产品中心</div>
+        <ul>
+           {kmd_(17,20,20,5,1)}
+         </ul>
+         <div class="clear"></div>
+     </div>
+
+</div>
+
+<!--左侧-->
+<div id="left" class="mar_t10">
+{LB_通用左侧}     
+</div> 
+
+<div class="clear"></div>
+
+<div id="mar" class="mar_t10">
+    <div class="pro_name mar_b10"><p><a href="{$GetUrl}GNYJ/20_1.html">更多</a></p>弓弩配件</div>
+    <div id="demo" class="gundong" align="center">  
+       <table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+        	<td valign="top" id="marquePic1">        
+                <table cellpadding="0" cellspacing="0" border="0" class="gundong2">
+                    <tr>
+                 {kmd_(19,40,20,7,1)}
+                 </tr>
+               </table>
+	</td>
+        <td id="marquePic2" valign="top"></td></tr>
+       </table>
+    </div>
+<script type="text/javascript"> 
+var speed=50 
+marquePic2.innerHTML=marquePic1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft>=marquePic1.scrollWidth){ 
+demo.scrollLeft=0 
+}else{ 
+demo.scrollLeft++ 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+</script>
+</div>
+
+<!--底部-->
+{LB_通用底部}
+
+
+
+</div>
+{LB_qq}
+</body>
+</html>

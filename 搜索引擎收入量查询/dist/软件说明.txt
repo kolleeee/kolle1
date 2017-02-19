@@ -1,0 +1,9 @@
+软件说明
+google.hk  查询遇到点小技术问题
+
+url.txt 查询内容   一条一个
+
+上级查询内容   会访问到搜索引擎
+
+
+http://www.google.com.hk/search?hl=zh-CN&q=111111

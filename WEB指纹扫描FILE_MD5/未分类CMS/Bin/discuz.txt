@@ -1,0 +1,5 @@
+/uc_server/view/default/admin_frame_main.htm|Discuz
+/bbcode.js|Discuz
+/newsfader.js|Discuz
+/templates.cdb|Discuz
+/u2upopup.js|Discuz

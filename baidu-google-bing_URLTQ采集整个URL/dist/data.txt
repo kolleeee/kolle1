@@ -1,0 +1,5 @@
+Inurl:index.action
+Inurl:илЁг.achtion
+Inurl:index.achtion
+Inurl:action?id=
+apache struts2

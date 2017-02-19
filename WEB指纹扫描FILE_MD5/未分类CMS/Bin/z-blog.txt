@@ -1,0 +1,2 @@
+/zb_system/SCRIPT/common.js|z-blog
+/zb_users/CACHE/updateinfo.txt|z-blog

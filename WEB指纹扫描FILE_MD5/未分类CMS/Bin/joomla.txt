@@ -1,0 +1,4 @@
+/administrator/components/com_login/login.xml|joomla
+/components/com_mailto/views/sent/metadata.xml|joomla
+/modules/mod_banners/mod_banners.xml|joomla
+/plugins/authentication/joomla/joomla.xml|joomla

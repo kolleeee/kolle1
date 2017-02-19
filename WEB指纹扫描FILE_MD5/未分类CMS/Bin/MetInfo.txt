@@ -1,0 +1,1 @@
+/templates/metv5s/view.jpg|MetInfo

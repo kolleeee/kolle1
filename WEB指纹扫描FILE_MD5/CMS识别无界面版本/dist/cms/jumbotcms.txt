@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#jumbotcms
+/plus/weather/icon/a_12.gif|jumbotcms||46d38ccfa5f1a9af463f9d5bfcde5cc6|
+/question/images/face/images/ico_face_arrow.gif|jumbotcms||5675aebf07539d8a0caae1b2ec329c25|
+/install/images/logo.jpg|jumbotcms||1c5bd8da63002259bb1f2fcf191bddc6|
+/favicon.ico|jumbotcms||6176a96a219c1244ad9bee96bb07772d|

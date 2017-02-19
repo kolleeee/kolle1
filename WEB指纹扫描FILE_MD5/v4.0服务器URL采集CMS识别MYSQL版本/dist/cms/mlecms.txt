@@ -1,0 +1,8 @@
+#范例 
+#URL链接文件(地址)|CMS名称|关键字|文件MD5
+#字符前面加#将不会添加到识别中去
+#mlecms
+/favicon.ico|mlecms||214270729c97e5baa653c81ab9110c1f|
+/inc/tools/iepngfix/blank.gif|mlecms||1c5e470de44c065dce6810adbfde421f|
+/inc/images/logo.png|mlecms||fee1877e6d32c94c756408db7fa6a140|
+/inc/images/watermark.png|mlecms||14629dd7a1a6d46b4e2783b7d47bb80a|

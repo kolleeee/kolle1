@@ -1,0 +1,33 @@
+”√SQL”Ôæ‰¥¥Ω®
+DROP TABLE IF EXISTS `ftppassword2`;
+CREATE TABLE `ftppassword2` (
+  `IP` varchar(100) NOT NULL,
+  `user` varchar(100) NOT NULL,
+  `password` varchar(100) NOT NULL,
+  `root` varchar(100) NOT NULL,
+  `hostIP` varchar(100) default NULL,
+  `postIP` varchar(100) default NULL,
+  `html` varchar(100) default NULL,
+  `baiduQZ` varchar(100) default NULL,
+  `PR` varchar(100) default NULL,
+  `time` varchar(100) NOT NULL,
+  PRIMARY KEY  (`IP`,`user`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+
+
+
+DROP TABLE IF EXISTS `ftppassword3`;
+CREATE TABLE `ftppassword3` (
+  `IP` varchar(100) NOT NULL,
+  `user` varchar(100) NOT NULL,
+  `password` varchar(100) NOT NULL,
+  `root` varchar(100) NOT NULL,
+  `hostIP` varchar(100) default NULL,
+  `postIP` varchar(100) default NULL,
+  `html` varchar(100) default NULL,
+  `baiduQZ` varchar(100) default NULL,
+  `PR` varchar(100) default NULL,
+  `time` varchar(100) NOT NULL,
+  PRIMARY KEY  (`IP`,`user`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
